@@ -22,3 +22,5 @@ img.work{top:65px;left:227px;width:25px;height:25px}
 .current{top:68px;left:257px;font-size:14px}
 .work{background-image:url("../img/work.png")}
 .contact{background:#808080;height:40px;width:1000px}
+.detail{position:relative;background:#d0d0d0;height:500px}
+.myself{position:absolute;border-top:4px solid #f00;top:25px;left:25px;padding:20px 10px;background:#fff;width:300px;height:350px;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px}
