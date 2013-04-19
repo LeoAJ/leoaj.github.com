@@ -1,7 +1,8 @@
 *{margin:0;padding:0}
 body{font:400 14px/1.6 "Open Sans",sans-serif}
 a{text-decoration:none}
-header{position:fixed;top:0;z-index:99;width:100%;height:60px;padding-top:20px}
+ul{list-style:none}
+header{position:fixed;top:0;z-index:99;width:100%;height:60px;padding-top:10px}
 nav{position:absolute;top:30px;right:20px}
 nav a{font-size:16px;margin:0 5px;padding-right:15px;border-right:1px dotted #808080;color:#7b838a;}
 nav a:hover{text-decoration:underline}
@@ -10,17 +11,24 @@ nav a.about{border:none}
 .clearfix{display:inline-block}
 footer .copy{position:absolute;right:35px;bottom:35px;opacity:.75;color:#808080}
 footer .copy{position:fixed;right:35px;bottom:35px;opacity:.75;color:#808080}
-.logo{font-size:28px;color:#353535;width:100%;margin-left:20px}
+@font-face{font-family:MyFonts;src:url("fonts/PoetsenOne-Regular.ttf")}
+.logo{font-family:MyFonts;font-size:40px;color:#353535;width:100%;margin-left:20px}
 .logo em{color:#999;font-style:normal;font-size:12px;font-weight:100;margin-left:2px}
 .content{margin-top:100px;margin-left:100px;margin-right:100px;width:1000px}
 .image{position:relative;width:1000px;height:120px;-moz-border-radius-topleft:5px 5px;-moz-border-radius-topright:5px 5px;border-top-left-radius:5px 5px;border-top-right-radius:5px 5px;background-image:url("../img/earth.jpg")}
 img.icon,img.work{position:absolute}
-img.icon{top:5px;left:100px;width:110px;height:110px;-webkit-border-radius:60px;-moz-border-radius:60px;border-radius:60px}
-img.work{top:65px;left:227px;width:25px;height:25px}
+img.icon{top:5px;left:70px;width:110px;height:110px;-webkit-border-radius:60px;-moz-border-radius:60px;border-radius:60px}
+img.work{top:65px;left:197px;width:25px;height:25px}
 .current,.name{position:absolute;color:#fff}
-.name{top:25px;left:230px;font-size:24px}
-.current{top:68px;left:257px;font-size:14px}
+.name{top:25px;left:200px;font-size:24px}
+.current{top:68px;left:227px;font-size:14px}
 .work{background-image:url("../img/work.png")}
-.contact{background:#808080;height:40px;width:1000px}
-.detail{position:relative;background:#d0d0d0;height:500px}
-.myself{position:absolute;border-top:4px solid #f00;top:25px;left:25px;padding:20px 10px;background:#fff;width:300px;height:350px;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px}
+.social{background:#e8e8e8;height:40px;width:1000px}
+.detail{position:relative;background:#d0d0d0;height:500px;-moz-border-radius-bottomleft:5px 5px;-moz-border-radius-bottomright:5px 5px;border-bottom-left-radius:5px 5px;border-bottom-right-radius:5px 5px}
+.me,.skill,.education{position:absolute;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;border-top:5px solid;width:275px;background:#fff;top:30px;padding:15px}
+.me{border-top-color:#f00;left:25px;height:400px}
+.skill{left:365px;border-top-color:#0c6;height:100px}
+.education{left:680px;border-top-color:#39f;height:100px}
+ul{margin-top:5px}
+.school{font-size:13px;font-weight:bold}
+.period{font-size:11px;color:#686868}
