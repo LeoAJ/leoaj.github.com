@@ -12,3 +12,4 @@ footer .copy{position:absolute;right:35px;bottom:35px;opacity:.75;color:#808080}
 footer .copy{position:fixed;right:35px;bottom:35px;opacity:.75;color:#808080}
 .logo{font-size:28px;color:#353535;width:100%;margin-left:20px}
 .logo em{color:#999;font-style:normal;font-size:12px;font-weight:100;margin-left:2px}
+.content{margin-top:100px;margin-left:100px;margin-right:100px;width:1000px}

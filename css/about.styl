@@ -2,8 +2,61 @@
 @import 'nav.styl'
 @import 'footer.styl'
 @import 'page.styl'
+@import 'constant.styl'
+@import 'mixin.styl'
 
-.content
-	margin-left 80px
-	margin-right 80px
-	width 900px
+.image
+	position relative
+	width W
+	height 120px
+	// border-radius(5px)
+	border-radius-top(5px)
+	background-image url(../img/earth.jpg)
+	// background-repeat no-repeat
+	// background-image linear-gradient(left bottom, rgb(37,199,167) 32%, rgb(67,136,240) 66%, rgb(99,143,255) 54%)
+	// background-image -o-linear-gradient(left bottom, rgb(37,199,167) 32%, rgb(67,136,240) 66%, rgb(99,143,255) 54%)
+	// background-image -moz-linear-gradient(left bottom, rgb(37,199,167) 32%, rgb(67,136,240) 66%, rgb(99,143,255) 54%)
+	// background-image -webkit-linear-gradient(left bottom, rgb(37,199,167) 32%, rgb(67,136,240) 66%, rgb(99,143,255) 54%)
+	// background-image -ms-linear-gradient(left bottom, rgb(37,199,167) 32%, rgb(67,136,240) 66%, rgb(99,143,255) 54%)
+
+
+img.icon,
+img.work
+	position absolute
+
+img.icon
+	top 5px
+	left 100px
+	width 110px
+	height 110px
+	border-radius(60px)
+
+img.work
+	top 65px
+	left 227px
+	width 25px
+	height 25px
+
+.current,
+.name
+	position absolute
+	color white
+
+.name
+	top 25px
+	left 230px
+	font-size 24px
+
+.current
+	top 68px
+	left 257px
+	font-size 14px
+
+.work
+	background-image url(../img/work.png)
+
+.contact
+	background gray
+	height 40px
+	width W
+	// border-radius-bottom(5px)
