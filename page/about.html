@@ -4,7 +4,6 @@
 	<meta charset="utf-8">
 	<meta name="author" content="Leo Hsieh">
   	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	
 	<title>Leo Hsieh's Portfolio</title>
 
 	<link rel="stylesheet" type="text/css" href="../css/about.css">
@@ -26,12 +25,18 @@
 	</header>
 	<div class="content">
 		<section class="image">
-			<img class="icon" src="../img/icon.jpg">
+			<img class="icon" src="../css/img/icon.jpg">
 			<span class="name">Leo Hsieh</span>
-			<img class="work" src="../img/work.png">
+			<img class="work" src="../css/img/work.png">
 			<span class="current">UI Platform Engineer at HP</span>
 		</section>
-		<section class="social"></section>
+		<section class="social">
+			<a target="blank" href="http://github.com/LeoAJ" id="github" class="socialIcon"><img  id="githubImg" alt="github" title="github" src="../css/img/github.png" height="31px" width="31px"></a>
+			
+			<a target="blank" href="http://twitter.com/Leohsieh0924" id="twitter" class="socialIcon"><img alt="twitter" title="twitter" src="../css/img/twitter.png" height="35px" width="35px"></a>
+			
+			<a target="blank" href="www.linkedin.com/in/leohsieh/" id="linkedin" class="socialIcon"><img alt="linkedin" title="linkedin" src="../css/img/linkedin.png" height="35px" width="35px"></a>
+		</section>
 		<section class="detail">
 			<section class="me">
 				<h3>About Me</h3>
@@ -45,26 +50,83 @@
 			</section>
 			<section class="skill">
 				<h3>Skills</h3>
+				<ul>
+					<li>
+						JavaScript
+						<span id="js" class="experience"></span>
+					</li>
+					<li>
+						HTML5
+						<span id="html" class="experience"></span>
+					</li>
+					<li>
+						CSS3
+						<span id="css" class="experience"></span>
+					</li>
+					<li>
+						jQuery
+						<span id="jq" class="experience"></span>
+					</li>
+					<li>
+						Java
+						<span id="java" class="experience"></span>
+					</li>
+					<li>
+						Python
+						<span id="python" class="experience"></span>
+					</li>
+					<li>
+						Node.js
+						<span id="node" class="experience"></span>
+					</li>
+					<li>
+						SQL
+						<span id="sql" class="experience"></span>
+					</li>
+					<li>
+						MySQL
+						<span id="mysql" class="experience"></span>
+					</li>
+					<li>
+						MongoDB
+						<span id="mongo" class="experience"></span>
+					</li>
+					<li>
+						CouchDB
+						<span id="couch" class="experience"></span>
+					</li>
+					<li>
+						Amazon EC2
+						<span id="ec" class="experience"></span>
+					</li>
+				</ul>
 			</section>
 			<section class="education">
 				<h3>Education</h3>
 				<ul>
 					<li>
 						<div class="school">University of San Francisco</div>
-						<div class="period">Web Science, 2009 - 2011</div>
+						<div class="period">MS in Web Science, 2009 - 2011</div>
 					</li>
 					<li>
 						<div class="school">National Taiwan University</div>
-						<div class="period">Bio-Industrial Mechatronics Engineering, 2005 - 2008</div>
+						<div class="period">BS in Bio-Industrial Mechatronics Engineering, 2005 - 2008</div>
 					</li>
 				</ul>
 			</section>
-			<section class="contact"></section>
+			<section class="contact">
+				<h3>Contact Info</h3>
+				<ul>
+					<li>Email:<a href="mailto:leo0924@gmail.com"> Send me an email</a></li>
+					<li>Phone: 1-646-825-1077</li>
+				</ul>
+			</section>
 		</section>
 	</div>
 	<footer>
 		<span class="copy">&copy 2013 Leo Hsieh</span>
 	</footer>
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script src="../js/about.js"></script>
 </body>
 </html>

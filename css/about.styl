@@ -5,12 +5,17 @@
 @import 'constant.styl'
 @import 'mixin.styl'
 
+// general
+h3
+	margin-bottom 15px
+
+// top bar
 .image
 	position relative
 	width W
 	height 120px
 	border-radius-top(5px)
-	background-image url(../img/earth.jpg)
+	background-image url(img/earth.jpg)
 
 img.icon,
 img.work
@@ -45,48 +50,109 @@ img.work
 	font-size 14px
 
 .work
-	background-image url(../img/work.png)
+	background-image url(img/work.png)
 
+// socail bar
 .social
 	background #E8E8E8
 	height 40px
 	width W
 
+.socialIcon
+	float right
+
+.socialIcon
+	&:hover
+		two-D-rotate()
+
+#githubImg
+	border-radius(5px)
+
+#github,
+#twitter,
+#linkedin
+	margin-right 5px
+	margin-left 5px
+
+#twitter,
+#linkedin
+	margin-top 2px
+
+#github
+	margin-top 4px
+
+// content
 .detail
 	position relative
 	background #D0D0D0
-	height 500px
+	height 600px
 	border-radius-bottom(5px)
 
 .me,
 .skill,
 .education
+.contact
 	position absolute
 	border-radius(5px)
 	border-top 5px solid
-	width 275px
 	background white
+	padding 15px
+
+.me,
+.skill,
+.education
 	top 30px
-	padding 15px	
-
-.me
-	border-top-color RED
-	left 25px
-	height 400px
-
-.skill
-	left 365px
-	border-top-color GREEN
-	height 100px
 
 .education
-	left 680px
+.contact
+	height 120px
+	width 295px
+	left 660px
+
+.me,
+.skill
+	height 450px
+
+// about me
+.me
+	border-top-color RED
+	left 20px
+	width 275px
+
+// skills
+.skill
+	left 340px
 	border-top-color BLUE
-	height 100px
+	font-size 13px
+	width 275px
+
+.skill ul li
+	// border 1px solid black
+	background #F0F0F0
+	margin 5px
+	padding 3px
+	border-radius(3px)
+	shadow()
 
 ul
 	margin-top 5px
-	// margin-left 5px
+
+.experience
+	cursor pointer
+	float right
+	background BLUE
+	color white
+	margin-top -3px
+	margin-right -3px
+	height 21px
+	width 8px
+	padding 3px 5px
+	font-weight bold
+	border-radius-right(3px)
+
+// education
+.education
+	border-top-color GREEN
 
 .school
 	font-size 13px
@@ -95,3 +161,15 @@ ul
 .period
 	font-size 11px
 	color #686868
+
+// contact
+.contact
+	top 220px
+	border-top-color ORANGE
+
+.contact ul
+	font-size 12px
+
+.contact ul li a
+	&:hover
+		text-decoration underline

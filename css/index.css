@@ -13,5 +13,5 @@ footer .copy{position:absolute;right:35px;bottom:35px;opacity:.75;color:#808080}
 footer .copy{position:fixed;right:35px;bottom:35px;opacity:.75;color:#808080}
 #logo{margin-top:180px;margin-bottom:180px;margin-left:80px;padding-left:40px;width:550px;border-left:1px dotted #000}
 .name{font:400 70px "Helvetica Neue",Helvetica,Arial,sans-serif;display:block;color:#353535;width:100%}
-.name em{color:#999;font-style:normal;font-size:16px;font-weight:100;margin-left:5px}
-.position{font:100 70px "Helvetica Neue",Helvetica,Arial,sans-serif;color:#cecece;line-height:.75}
+.name em{color:#c0c0c0;font-style:normal;font-size:16px;font-weight:110;margin-left:5px}
+.position{font:100 70px "Helvetica Neue",Helvetica,Arial,sans-serif;color:#a8a8a8;line-height:.75}
