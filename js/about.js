@@ -1,53 +1,23 @@
 (function() {
-    
-    var year = 4,
-        js = $('#js'),
-        html = $('#html'),
-        css = $('#css'),
-        node = $('#node'),
-        jq = $('#jq'),
-        java = $('#java'),
-        python = $('#python'),
-        ec = $('#ec'),
-        mongo = $('#mongo'),
-        couch = $('#couch'),
-        sql = $('#sql'),
-        mysql = $('#mysql');
+    // console.log('google');
+    var skillItem = $('.skillItem');
 
-    // set years
-    js.text(year);
-    html.text(year);
-    css.text(year);
-    jq.text(year - 1);
-    java.text(year - 1);
-    python.text(year - 1);
-    node.text(year - 2);
-    sql.text(year - 2);
-    ec.text(year - 3);
-    mysql.text(year - 2);
-    mongo.text(year - 3);
-    couch.text(year - 3);
+    skillItem.on('mouseover', function() {
+        
+        var $this = $(this);
 
-    // set hover
-    $('.experience').on('mouseover', function() {
-        var $this = $(this),
-            value = $this.text();
-
-        $this.text(value + ' years');
-        $this.animate({
-            'width': '50px'
-        }, 500);
+        $this.css({
+            'color': 'white',
+            'background': '#3399FF'
+        });
     });
 
-    $('.experience').on('mouseout', function() {
-        var $this = $(this),
-            value = $this.text().replace(' years', '');
+    skillItem.on('mouseout', function() {
+        var $this = $(this);
 
-        
-        $this.animate({
-            'width': '8px'
-        }, 500, function() {
-            $this.text(value);
+        $this.css({
+            'color': 'black',
+            'background': '#C0C0C0'
         });
     });
 

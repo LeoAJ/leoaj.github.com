@@ -90,6 +90,7 @@ img.work
 
 .me,
 .skill,
+.specialties
 .education
 .contact
 	position absolute
@@ -105,53 +106,80 @@ img.work
 
 .education
 .contact
-	height 120px
 	width 295px
 	left 660px
 
-.me,
-.skill
-	height 450px
+.skill,
+.specialties
+	left 340px
+	width 275px
 
 // about me
 .me
 	border-top-color RED
 	left 20px
 	width 275px
+	height 450px
 
 // skills
 .skill
-	left 340px
 	border-top-color BLUE
 	font-size 13px
-	width 275px
+	height 200px
 
-.skill ul li
-	// border 1px solid black
-	background #F0F0F0
-	margin 5px
-	padding 3px
-	border-radius(3px)
-	shadow()
-
-ul
-	margin-top 5px
-
-.experience
+.skillItem
+	display inline-block
 	cursor pointer
-	float right
-	background BLUE
-	color white
-	margin-top -3px
-	margin-right -3px
-	height 21px
-	width 8px
-	padding 3px 5px
-	font-weight bold
-	border-radius-right(3px)
+	margin 3px 2px
+	padding 3px 10px
+	background gray
+	border-radius(3px)
+	&:hover
+		speed()
+		enlarge()
+		// box-shadow()
+
+// specialties
+.specialties
+	top 280px
+	height 200px
+	border-top-color PURPLE
+
+.specialtiesList
+	position relative
+	font-size 14px
+	three-D-perspective()
+
+.specialtiesList span
+	display block
+	margin 5px
+	padding 3px 3px
+	background gray
+	border-radius(3px)
+	three-D()
+	three-D-origin()
+	three-D-style()
+	&:hover
+		background PURPLE
+		three-D-rotate()
+	&:after
+		display block
+		content attr(data-title)
+		position absolute
+		color white
+		background PURPLE
+		width 259px
+		top 30px
+		left 0
+		margin-top 3px
+		padding 3px
+		three-D-origin()
+		three-D-rotateBack()
+		border-radius(3px)
 
 // education
 .education
+	height 120px
 	border-top-color GREEN
 
 .school
@@ -165,11 +193,12 @@ ul
 // contact
 .contact
 	top 220px
+	height 100px
 	border-top-color ORANGE
 
 .contact ul
 	font-size 12px
 
-.contact ul li a
-	&:hover
-		text-decoration underline
+// .contact ul li a
+// 	&:hover
+// 		text-decoration underline
