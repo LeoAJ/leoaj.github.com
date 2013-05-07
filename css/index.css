@@ -2,7 +2,7 @@
 body{font:400 14px/1.6 "Open Sans",sans-serif}
 a{text-decoration:none}
 ul{list-style:none}
-header{position:fixed;top:0;z-index:99;width:100%;height:60px;padding-top:10px}
+header{position:fixed;top:0;z-index:99;width:100%;height:HeaderHeight;padding-top:10px}
 .clearfix{clear:both}
 nav{position:absolute;top:30px;right:20px}
 nav a{font-size:16px;margin:0 5px;padding-right:15px;border-right:1px dotted #808080;color:#7b838a;}
@@ -10,7 +10,6 @@ nav a:hover{text-decoration:underline}
 nav a.active{font-weight:bold;color:#353535}
 nav a.about{border:none}
 .clearfix{display:inline-block}
-footer .copy{position:absolute;right:35px;bottom:35px;opacity:.75;color:#808080}
 footer .copy{position:fixed;right:35px;bottom:35px;opacity:.75;color:#808080}
 #logo{margin-top:180px;margin-bottom:180px;margin-left:80px;padding-left:40px;width:550px;border-left:1px dotted #000}
 .name{font:400 70px "Helvetica Neue",Helvetica,Arial,sans-serif;display:block;color:#353535;width:100%}
