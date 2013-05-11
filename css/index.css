@@ -10,7 +10,7 @@ nav a:hover{text-decoration:underline}
 nav a.active{font-weight:bold;color:#353535}
 nav a.about{border:none}
 .clearfix{display:inline-block}
-footer .copy{position:fixed;right:35px;bottom:35px;opacity:.75;color:#808080}
+footer .copy{position:fixed;right:25px;bottom:35px;opacity:.75;color:#808080}
 #logo{margin-top:180px;margin-bottom:180px;margin-left:80px;padding-left:40px;width:550px;border-left:1px dotted #000}
 .name{font:400 70px "Helvetica Neue",Helvetica,Arial,sans-serif;display:block;color:#353535;width:100%}
 .name em{color:#c0c0c0;font-style:normal;font-size:16px;font-weight:110;margin-left:5px}

@@ -6,19 +6,19 @@
         
         var $this = $(this);
 
-        $this.css({
-            'color': 'white',
-            'background': '#3399FF'
-        });
+        // $this.css({
+        //     'color': 'white',
+        //     'background': '#3399FF'
+        // });
     });
 
     skillItem.on('mouseout', function() {
         var $this = $(this);
 
-        $this.css({
-            'color': 'black',
-            'background': '#C0C0C0'
-        });
+        // $this.css({
+        //     'color': 'black',
+        //     'background': '#C0C0C0'
+        // });
     });
 
 })();

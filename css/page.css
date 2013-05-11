@@ -1,4 +1,4 @@
 @font-face{font-family:MyFonts;src:url("fonts/PoetsenOne-Regular.ttf")}
 .logo{font-family:MyFonts;font-size:40px;color:#353535;width:100%;margin-left:20px}
 .logo em{color:#999;font-style:normal;font-size:12px;font-weight:100;margin-left:2px}
-.content{margin-top:100px;margin-left:100px;margin-right:100px;width:1000px}
+.content{width:1000px;margin:100px auto}

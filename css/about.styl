@@ -1,9 +1,13 @@
+@import 'constant.styl'
 @import 'template.styl'
 @import 'nav.styl'
 @import 'footer.styl'
 @import 'page.styl'
-@import 'constant.styl'
 @import 'mixin.styl'
+
+// content
+.content
+	margin HeaderHeight + 40px auto
 
 // general
 h3
@@ -15,7 +19,7 @@ h3
 	width W
 	height 120px
 	border-radius-top(5px)
-	background-image url(img/earth.jpg)
+	background-image url(img/about/earth.jpg)
 
 img.icon,
 img.work
@@ -50,7 +54,7 @@ img.work
 	font-size 14px
 
 .work
-	background-image url(img/work.png)
+	background-image url(img/about/work.png)
 
 // socail bar
 .social
@@ -80,10 +84,6 @@ img.work
 
 #github
 	margin-top 4px
-
-// content
-.content
-	margin HeaderHeight + 40px auto
 
 .detail
 	position relative
@@ -138,6 +138,8 @@ img.work
 	background gray
 	border-radius(3px)
 	&:hover
+		color: white
+		background BLUE
 		speed()
 		enlarge()
 
