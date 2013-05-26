@@ -15,7 +15,6 @@ footer .copy{position:fixed;right:25px;bottom:35px;opacity:.75;color:#c0c0c0}
 .logo{font-family:MyFonts;font-size:40px;color:#353535;width:100%;margin-left:20px}
 .logo em{color:#999;font-style:normal;font-size:12px;font-weight:100;margin-left:2px}
 .content{width:1000px;margin:100px auto}
-.content{margin:100px auto}
 h3{margin-bottom:15px}
 .image{position:relative;width:1000px;height:120px;-moz-border-radius-topleft:5px 5px;-moz-border-radius-topright:5px 5px;border-top-left-radius:5px 5px;border-top-right-radius:5px 5px;background-image:url("img/about/earth.jpg")}
 img.icon,img.work{position:absolute}
