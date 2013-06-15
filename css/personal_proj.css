@@ -16,3 +16,18 @@ footer .copy{position:fixed;right:15px;bottom:35px;opacity:.75;color:#808080}
 @font-face{font-family:MyFonts;src:url("fonts/PoetsenOne-Regular.ttf")}
 .logo{font-family:MyFonts;font-size:40px;color:#353535;width:100%;margin-left:20px}
 .logo em{color:#999;font-style:normal;font-size:12px;font-weight:100;margin-left:2px}
+article{margin:20px auto}
+section{float:left}
+aside{float:right}
+h3{font-family:forte,"Myriad Pro","Helvetica Neue",Helvetica,Arial,Sans-Serif;font-size:1.5em;font-weight:normal}
+h4{margin-top:15px;font-size:14px;font-weight:italic;text-shadow:0 2px 0 #fff}
+p{margin-top:15px;font-size:12px;width:500px}
+.picture{margin-top:30px;padding:5px;background:#fff;height:200px;width:375px;border:1px solid #fff}
+.hide{display:none}
+.line{height:10px;border-bottom:1px solid #000}
+.project{height:300px;background:#c0c0c0;padding:15px;border:1px solid #c0c0c0;-webkit-border-radius:5px;-moz-border-radius:5px;-o-border-radius:5px;border-radius:5px}
+.content{position:relative;left:50px;width:950px;margin-top:120px}
+.code{float:right;position:relative;top:-30px}
+section{width:500px}
+ol{margin-left:20px;font-size:12px}
+.fb{height:420px}

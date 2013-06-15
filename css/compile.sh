@@ -1,1 +1,1 @@
-stylus -c -w template.styl nav.styl footer.styl index.styl about.styl school_proj.styl personal_proj.styl page.styl
+stylus -c -w template.styl nav.styl footer.styl index.styl about.styl school_proj.styl personal_proj.styl page.styl proj.styl
