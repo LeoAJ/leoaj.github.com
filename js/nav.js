@@ -1,5 +1,5 @@
 $(function() {
-    console.log('YA');
+    
     var header = $('header'),
         pos = header.offset();
 
