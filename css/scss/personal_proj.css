@@ -72,10 +72,6 @@ footer .copy {
   color: silver; }
 
 /* for all constants */
-@font-face {
-  font-family: MyFonts;
-  src: url(../fonts/PoetsenOne-Regular.ttf); }
-
 .logo {
   font-family: MyFonts;
   font-size: 40px;
@@ -90,11 +86,9 @@ footer .copy {
   font-weight: 100;
   margin-left: 2px; }
 
-* {
-  @font-face {
-    font-family: MyFonts;
-    src: url(../fonts/PoetsenOne-Regular.ttf); }
- }
+@font-face {
+  font-family: MyFonts;
+  src: url(../../fonts/PoetsenOne-Regular.ttf); }
 
 article {
   margin: 20px auto; }

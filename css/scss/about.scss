@@ -6,7 +6,8 @@
 @import "nav";
 @import "footer";
 @import "logo";
-@import "font";
+
+@include headBarFont;
 
 ol {
     margin-left: 15px;
