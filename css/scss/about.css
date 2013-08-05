@@ -110,7 +110,7 @@ h3 {
   position: relative;
   width: 1000px;
   height: 120px;
-  background-image: url(../css/img/about/earth.jpg); }
+  background-image: url(../../css/img/about/earth.jpg); }
 
 img.icon,
 img.work {
@@ -147,9 +147,9 @@ img.work {
   left: 227px;
   font-size: 14px; }
 
-.work {
-  background-image: url(../css/img/about/work.png); }
-
+/* .work {
+    background-image: url(../../css/img/about/work.png);
+} */
 .social {
   background: #E8E8E8;
   height: 40px;
