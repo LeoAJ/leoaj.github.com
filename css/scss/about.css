@@ -85,6 +85,8 @@ footer .copy {
   font-weight: 100;
   margin-left: 2px; }
 
+/* font */
+/* mixin function */
 * {
   @font-face {
     font-family: MyFonts;
