@@ -1,0 +1,11 @@
+/* footer */
+
+@import "constant";
+
+footer .copy {
+    position: fixed;
+    right: 15px;
+    bottom: 35px;
+    opacity: .75;
+    color: $gray;
+}
