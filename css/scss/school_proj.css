@@ -74,7 +74,7 @@ footer .copy {
 /* for all constants */
 @font-face {
   font-family: MyFonts;
-  src: url(fonts/PoetsenOne-Regular.ttf); }
+  src: url(../fonts/PoetsenOne-Regular.ttf); }
 
 .logo {
   font-family: MyFonts;
@@ -89,6 +89,12 @@ footer .copy {
   font-size: 12px;
   font-weight: 100;
   margin-left: 2px; }
+
+* {
+  @font-face {
+    font-family: MyFonts;
+    src: url(../fonts/PoetsenOne-Regular.ttf); }
+ }
 
 article {
   margin: 20px auto; }

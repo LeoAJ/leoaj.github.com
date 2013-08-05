@@ -7,6 +7,10 @@
 @import "footer";
 @import "logo";
 
+* {
+    @include headBarFont;
+}
+
 article {
     margin: 20px auto;
 }

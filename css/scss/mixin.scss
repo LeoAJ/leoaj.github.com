@@ -1,5 +1,12 @@
 /* mixin function */
 
+@mixin headBarFont {
+    @font-face {
+       font-family: MyFonts;
+       src: url(../../fonts/PoetsenOne-Regular.ttf);
+    }
+}
+
 @mixin border-radius($n) {
     -webkit-border-radius:$n;
     -moz-border-radius:$n;

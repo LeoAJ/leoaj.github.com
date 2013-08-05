@@ -71,10 +71,6 @@ footer .copy {
   color: silver; }
 
 /* for all constants */
-@font-face {
-  font-family: MyFonts;
-  src: url(fonts/PoetsenOne-Regular.ttf); }
-
 .logo {
   font-family: MyFonts;
   font-size: 40px;
@@ -88,6 +84,12 @@ footer .copy {
   font-size: 12px;
   font-weight: 100;
   margin-left: 2px; }
+
+* {
+  @font-face {
+    font-family: MyFonts;
+    src: url(../../fonts/PoetsenOne-Regular.ttf); }
+ }
 
 ol {
   margin-left: 15px;
@@ -108,7 +110,7 @@ h3 {
   position: relative;
   width: 1000px;
   height: 120px;
-  background-image: url(img/about/earth.jpg); }
+  background-image: url(../img/about/earth.jpg); }
 
 img.icon,
 img.work {
@@ -146,7 +148,7 @@ img.work {
   font-size: 14px; }
 
 .work {
-  background-image: url(img/about/work.png); }
+  background-image: url(../img/about/work.png); }
 
 .social {
   background: #E8E8E8;

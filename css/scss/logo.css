@@ -1,8 +1,4 @@
 /* for all constants */
-@font-face {
-  font-family: MyFonts;
-  src: url(fonts/PoetsenOne-Regular.ttf); }
-
 .logo {
   font-family: MyFonts;
   font-size: 40px;
