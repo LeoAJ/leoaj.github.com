@@ -1,7 +1,0 @@
-/* font */
-/* mixin function */
-* {
-  @font-face {
-    font-family: MyFonts;
-    src: url(../../fonts/PoetsenOne-Regular.ttf); }
- }
