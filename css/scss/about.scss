@@ -269,6 +269,11 @@ img.work {
 
 // email
 .email img {
+    position: relative;
+    top: -20px;
+    left: 55px;
+    width: 150px;
+    height: 120px;
     &:hover {
         @include two-D-rotate;
     }

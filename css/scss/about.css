@@ -351,9 +351,15 @@ img.work {
 .contact ul {
   font-size: 12px; }
 
-.email img:hover {
-  -webkit-transform: rotate(-15deg);
-  -moz-transform: rotate(-15deg);
-  -ms-transform: rotate(-15deg);
-  -o-transform: rotate(-15deg);
-  transform: rotate(-15deg); }
+.email img {
+  position: relative;
+  top: -20px;
+  left: 55px;
+  width: 150px;
+  height: 120px; }
+  .email img:hover {
+    -webkit-transform: rotate(-15deg);
+    -moz-transform: rotate(-15deg);
+    -ms-transform: rotate(-15deg);
+    -o-transform: rotate(-15deg);
+    transform: rotate(-15deg); }
