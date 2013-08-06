@@ -7,11 +7,7 @@
 @import "footer";
 @import "logo";
 
-// @include headBarFont;
-@font-face {
-   font-family: MyFonts;
-   src: url(../../fonts/PoetsenOne-Regular.ttf);
-}
+@include headBarFont;
 
 article {
     margin: 20px auto;

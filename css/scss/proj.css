@@ -87,7 +87,7 @@ footer .copy {
 
 @font-face {
   font-family: MyFonts;
-  src: url(../../fonts/PoetsenOne-Regular.ttf); }
+  src: url(../fonts/PoetsenOne-Regular.ttf); }
 
 article {
   margin: 20px auto; }
