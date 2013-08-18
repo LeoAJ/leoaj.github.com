@@ -3,7 +3,7 @@ description:      Leo's Personal Portfolio
 logo:             None
 disqus_shortname:
 #Comment out url when working locally to resolve base urls correctly
-url:              leoaj.github.com
+url:              http://leoaj.github.io/
 
 # Owner/author information
 owner:
