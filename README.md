@@ -1,3 +1,3 @@
 ### Leo's Portfolio
 
-Base on [Jekyll] (http://jekyllrb.com/)
+Powered by [Jekyll] (http://jekyllrb.com/) using [So Simple Theme] (https://github.com/mmistakes/so-simple-theme)
