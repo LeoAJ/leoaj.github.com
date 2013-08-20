@@ -1,9 +1,9 @@
 title:            Leo's Portfolio
-description:      Leo's Personal Portfolio
+description:      Open source software engineer
 logo:             None
 disqus_shortname:
 #Comment out url when working locally to resolve base urls correctly
-# url:              http://leoaj.github.com
+url:              http://leoaj.github.com
 
 # Owner/author information
 owner:
@@ -35,6 +35,10 @@ links:
     url: /about
   - title: Articles
     url: /articles
+  - title: Personal Projects
+    url: /personalProjects
+  - title: School Projects
+    url: /schoolProjects
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Los_Angeles
