@@ -1,9 +1,9 @@
 title:            Leo's Portfolio
 description:      Open source software engineer
-logo:             None
+logo:             icon.jpg
 disqus_shortname:
 #Comment out url when working locally to resolve base urls correctly
-url:              http://leoaj.github.com
+# url:              http://leoaj.github.com
 
 # Owner/author information
 owner:
