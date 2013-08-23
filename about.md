@@ -41,16 +41,19 @@ These are the tasks that I have been working on:
 * Amazon EC2
 * Git
 * SVN
-* Js/Css framework
-  * jQuery
-  * AngularJs
-  * SugarJs
-  * Express
-  * Backbone
-  * Underscore
-  * Grunt
-  * Bootstrap
-  * Foundation
+* Js/Css frameworks
+  * [jQuery](http://jquery.com/){:target="_blank"}
+  * [AngularJs](http://angularjs.org/){:target="_blank"}
+  * [SugarJs](http://sugarjs.com/){:target="_blank"}
+  * [Express](http://expressjs.com/){:target="_blank"}
+  * [Backbone](http://backbonejs.org/){:target="_blank"}
+  * [Underscore](http://underscorejs.org/){:target="_blank"}
+  * [Grunt](http://gruntjs.com/){:target="_blank"}
+  * [SASS](http://sass-lang.com/){:target="_blank"}
+  * [LESS](http://lesscss.org/){:target="_blank"}
+  * [Stylus](http://learnboost.github.io/stylus/){:target="_blank"}
+  * [Bootstrap](http://getbootstrap.com/){:target="_blank"}
+  * [Foundation](http://foundation.zurb.com/){:target="_blank"}
 
 ## Specialties
 
@@ -61,4 +64,4 @@ These are the tasks that I have been working on:
 
 ## About this site
 
-This site is written by [Markdown](http://daringfireball.net/projects/markdown/) and powered by [**Jekyll**](http://jekyllrb.com/) using [**So Simple Theme**](https://github.com/mmistakes/so-simple-theme), see the source code on [**Github**](http://github.com/LeoAJ/leoaj.github.com).
+This site is written by [Markdown](http://daringfireball.net/projects/markdown/) and powered by [**Jekyll**](http://jekyllrb.com/) using [**So Simple Theme**](https://github.com/mmistakes/so-simple-theme), checkout the source code on [**Github**](http://github.com/LeoAJ/leoaj.github.com).
