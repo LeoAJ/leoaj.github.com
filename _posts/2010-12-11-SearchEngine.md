@@ -9,16 +9,16 @@ sourceCode: https://github.com/LeoAJ/Search-Engine
 
 # Search engine based on web crawler
 
-In this project, I developed a personalized search engine with based on the web crawler, once I start the search engine, it will crawl the particular URL first and store all data into memory for searching later.
+In this project, I developed a personalized search engine with based on the **web crawler**, once I start the search engine, it will crawl the particular URL first and store all data into memory for searching later, the data structure I used in here is [**Inverted Index**](http://en.wikipedia.org/wiki/Inverted_index).
 
 For every users, they will have basic user profile, including login, logout and change password function, allowed users to perform searches and maintain searched query history and visited links.
 
 There is a dynamic top 10 query word in the right side of the page, which is updating immediately once every query word got searched, the most used query word will set to be
 No.1 in the top 10 query words.
 
-> Implement with `Java`, `Java Servlet`, `HTML`, `CSS`, `JavaScript`.
-
 ### Login & Crawling
+
+Login tab and start crawling before search engine start.
 
 <figure class="half">
   <a href="/images/search-3.jpg"><img src="/images/search-3.jpg"></a>
@@ -27,6 +27,8 @@ No.1 in the top 10 query words.
 </figure>
 
 ### Dynamic query table & Main page
+
+Main search page and provided dynamic query table in the results page, query table will update after each single search.
 
 <figure class="half">
   <a href="/images/search-4.jpg"><img src="/images/search-4.jpg"></a>
@@ -58,3 +60,5 @@ No.1 in the top 10 query words.
   <a href="/images/search-10.jpg"><img src="/images/search-10.jpg"></a>
   <figcaption>Personal setting include: changing password and number of links in a page</figcaption>
 </figure>
+
+> Implement with `Java`, `Java Servlet`, `HTML`, `CSS`, `JavaScript`.
