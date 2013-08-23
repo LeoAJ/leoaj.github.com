@@ -40,4 +40,4 @@ The general idea of this project is just like FaceBook, thus I called it ShareBo
   <figcaption>Provide basic photo info and editting function</figcaption>
 </figure>
 
-> Implement with `Python`, `HTML`, `CSS`, `Google App Engine`.
+> `Python`, `HTML`, `CSS`, `Google App Engine`.

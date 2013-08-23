@@ -30,4 +30,4 @@ I would like to thank my team member **Ye Niu** he is currently working in the Y
   <a href="/images/blog-4.jpg"><img src="/images/blog-4.jpg"></a>
 </figure>
 
-> Implement with `Python`, `HTML`, `CSS`.
+> `Python`, `HTML`, `CSS`.

@@ -4,7 +4,7 @@ title: "GeoTagger & GeoGame"
 category: school
 tags: [JavaScript, NodeJs, CouchDB, HTML, CSS, YUI, Google Map API, Amazon EC2, School Project]
 comments: false
-siteUrl: https://sites.google.com/site/leo0924/
+siteUrl: http://sites.google.com/site/leo0924/
 ---
 
 # Game with a purpose
@@ -55,4 +55,4 @@ After clicking on the map we will generate the score based on how close to the a
 
 For more information please visit our project wesite (link is on the left).
 
-> Implement with `JavaScript`, `Node.JS`, `CouchDB`, `HTML`, `CSS`, `Google Map API`, `YUI`, `Amazon EC2`.
+> `JavaScript`, `Node.JS`, `CouchDB`, `HTML`, `CSS`, `Google Map API`, `YUI`, `Amazon EC2`.

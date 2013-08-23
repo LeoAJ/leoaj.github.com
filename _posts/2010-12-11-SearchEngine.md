@@ -4,7 +4,7 @@ title: "Search Engine"
 category: school
 tags: [Java, Java Servlet, HTML, CSS, JavaScript, School Project]
 comments: false
-sourceCode: https://github.com/LeoAJ/Search-Engine
+sourceCode: http://github.com/LeoAJ/Search-Engine
 ---
 
 # Search engine based on web crawler
@@ -61,4 +61,4 @@ Main search page and provided dynamic query table in the results page, query tab
   <figcaption>Personal setting include: changing password and number of links in a page</figcaption>
 </figure>
 
-> Implement with `Java`, `Java Servlet`, `HTML`, `CSS`, `JavaScript`.
+> `Java`, `Java Servlet`, `HTML`, `CSS`, `JavaScript`.
