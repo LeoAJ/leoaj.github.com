@@ -15,29 +15,33 @@ The general idea of this project is just like FaceBook, thus I called it ShareBo
 ### Login
 
 <figure>
-  <a><img src="/images/share-1.jpg"></a>
+  <a href="/images/share-1.jpg"><img src="/images/share-1.jpg"></a>
 </figure>
 
 ### Main page
 
+Page tool bar and user email
+
 <figure class="half">
-  <a><img src="/images/share-2.jpg"></a>
-  <a><img src="/images/share-3.jpg"></a>
-  <figcaption>Page tool bar and user email</figcaption>
+  <a href="/images/share-2.jpg"><img class="borderFrame" src="/images/share-2.jpg"></a>
+  <a href="/images/share-3.jpg"><img class="borderFrame" src="/images/share-3.jpg"></a>
 </figure>
 
 ### Editting photo or friends list
+
+You can add friend, tag photo or edit photo title
+
 <figure class="half">
-  <a><img src="/images/share-4.jpg"></a>
-  <a><img src="/images/share-5.jpg"></a>
-  <figcaption>You can add friend, tag photo or edit photo title</figcaption>
+  <a href="/images/share-4.jpg"><img class="borderFrame" src="/images/share-4.jpg"></a>
+  <a href="/images/share-5.jpg"><img class="borderFrame" src="/images/share-5.jpg"></a>
 </figure>
 
 ### Photo info
 
+Provide basic photo info and editting function
+
 <figure>
-  <a><img src="/images/share-6.jpg"></a>
-  <figcaption>Provide basic photo info and editting function</figcaption>
+  <a href="/images/share-6.jpg"><img class="borderFrame" src="/images/share-6.jpg"></a>
 </figure>
 
 > `Python`, `HTML`, `CSS`, `Google App Engine`.

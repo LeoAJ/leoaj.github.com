@@ -21,8 +21,8 @@ No.1 in the top 10 query words.
 Login tab and start crawling before search engine start.
 
 <figure class="half">
-  <a href="/images/search-3.jpg"><img src="/images/search-3.jpg"></a>
-  <a href="/images/search-2.jpg"><img src="/images/search-2.jpg"></a>
+  <a href="/images/search-3.jpg"><img class="borderFrame" src="/images/search-3.jpg"></a>
+  <a href="/images/search-2.jpg"><img class="borderFrame" src="/images/search-2.jpg"></a>
   <figcaption>Start to crawl web pages</figcaption>
 </figure>
 
@@ -31,34 +31,37 @@ Login tab and start crawling before search engine start.
 Main search page and provided dynamic query table in the results page, query table will update after each single search.
 
 <figure class="half">
-  <a href="/images/search-4.jpg"><img src="/images/search-4.jpg"></a>
-  <a href="/images/search-11.jpg"><img src="/images/search-11.jpg"></a>
+  <a href="/images/search-4.jpg"><img class="borderFrame" src="/images/search-4.jpg"></a>
+  <a href="/images/search-11.jpg"><img class="borderFrame" src="/images/search-11.jpg"></a>
   <figcaption>Dynamic updating top 10 search query</figcaption>
 </figure>
 
 ### Results
 
+Test searching results
+
 <figure class="half">
-  <a href="/images/search-5.jpg"><img src="/images/search-5.jpg"></a>
-  <a href="/images/search-6.jpg"><img src="/images/search-6.jpg"></a>
-  <figcaption>Test searching results</figcaption>
+  <a href="/images/search-5.jpg"><img class="borderFrame" src="/images/search-5.jpg"></a>
+  <a href="/images/search-6.jpg"><img class="borderFrame" src="/images/search-6.jpg"></a>
 </figure>
 
 ### User history
 
+Clear and view the user history
+
 <figure class="half">
-  <a href="/images/search-7.jpg"><img src="/images/search-7.jpg"></a>
-  <a href="/images/search-9.jpg"><img src="/images/search-9.jpg"></a>
-  <figcaption>Clear and view the user history</figcaption>
+  <a href="/images/search-7.jpg"><img class="borderFrame" src="/images/search-7.jpg"></a>
+  <a href="/images/search-9.jpg"><img class="borderFrame" src="/images/search-9.jpg"></a>
 </figure>
 
 ### Personal setting
 
+Personal setting include: changing password and number of links in a page
+
 <figure class="third">
-  <a href="/images/search-1.jpg"><img src="/images/search-1.jpg"></a>
-  <a href="/images/search-8.jpg"><img src="/images/search-8.jpg"></a>
-  <a href="/images/search-10.jpg"><img src="/images/search-10.jpg"></a>
-  <figcaption>Personal setting include: changing password and number of links in a page</figcaption>
+  <a href="/images/search-1.jpg"><img class="borderFrame" src="/images/search-1.jpg"></a>
+  <a href="/images/search-8.jpg"><img class="borderFrame" src="/images/search-8.jpg"></a>
+  <a href="/images/search-10.jpg"><img class="borderFrame" src="/images/search-10.jpg"></a>
 </figure>
 
 > `Java`, `Java Servlet`, `HTML`, `CSS`, `JavaScript`.

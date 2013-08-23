@@ -20,7 +20,7 @@ We believed that most people knew where the location is, but they do not know wh
 Before game start, user need to login and select news or events from our database to read, and those data are coming from geo tagger.
 
 <figure>
-  <a href="/images/geo-4.jpg"><img src="/images/geo-4.jpg"></a>
+  <a href="/images/geo-4.jpg"><img class="borderFrame" src="/images/geo-4.jpg"></a>
   <figcaption>events or news information is loading in the iframe</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ Some instructions for the new users.
 Each single news or events will have a correspond location. This initial location is coming from Geo tagger.
 
 <figure>
-  <a href="/images/geo-2.jpg"><img src="/images/geo-2.jpg"></a>
+  <a href="/images/geo-2.jpg"><img class="borderFrame" src="/images/geo-2.jpg"></a>
   <figcaption>where location is related to the events</figcaption>
 </figure>
 
@@ -47,7 +47,7 @@ Each single news or events will have a correspond location. This initial locatio
 After clicking on the map we will generate the score based on how close to the actual location, it is just like dart, the more close the more higher score you will get.
 
 <figure>
-  <a href="/images/geo-3.jpg"><img src="/images/geo-3.jpg"></a>
+  <a href="/images/geo-3.jpg"><img class="borderFrame" src="/images/geo-3.jpg"></a>
   <figcaption>Pop up scores after user played</figcaption>
 </figure>
 
