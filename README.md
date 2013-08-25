@@ -1,5 +1,4 @@
-### [Leo's Portfolio](http://www.google.com)
----
+# [Leo's Portfolio](http://www.google.com)
 Copyright (c) 2013 Leo Hsieh
 
 Hello world, I am Leo, this is the source code of my personal portfolio, feel free to browser.
