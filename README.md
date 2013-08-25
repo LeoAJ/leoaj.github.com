@@ -1,4 +1,4 @@
-### [Leo's Portfolio](www.google.com)
+### [Leo's Portfolio](http://www.google.com)
 
 Copyright (c) 2013 Leo Hsieh
 
