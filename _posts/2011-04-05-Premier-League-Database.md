@@ -18,7 +18,7 @@ I provided some functionality for users to track their favorite teams or players
 ### Program structure
 
 * use base http server library to create simple server on the local host
-* execute basic "GET" and "POST" request
+* execute basic **GET** and **POST** request
 * distinguish what kind of POST request received and execute relative action
 * connect to oracle database and execute particular SQL statement
 * parse the output result from oracle database
