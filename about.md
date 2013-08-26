@@ -64,4 +64,4 @@ These are the tasks that I have been working on:
 
 ## About this site
 
-This site is written by [Markdown](http://daringfireball.net/projects/markdown/) and powered by [**Jekyll**](http://jekyllrb.com/) using [**So Simple Theme**](https://github.com/mmistakes/so-simple-theme), checkout the source code on [**Github**](http://github.com/LeoAJ/leoaj.github.com).
+This site is written in [Markdown](http://daringfireball.net/projects/markdown/) and powered by [**Jekyll**](http://jekyllrb.com/) using [**So Simple Theme**](https://github.com/mmistakes/so-simple-theme), checkout the source code on [**Github**](http://github.com/LeoAJ/leoaj.github.com).
