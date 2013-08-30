@@ -33,8 +33,6 @@ bing_verify:
 links:
   - title: About
     url: /about
-  - title: Articles
-    url: /articles
   - title: Personal Projects
     url: /personalProjects
   - title: School Projects
