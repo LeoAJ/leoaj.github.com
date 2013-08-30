@@ -1,4 +1,4 @@
-# [Leo's Portfolio](http://leoj.net/)
+# [Leo's Portfolio](http://leoj.net/){:target="_blank"}
 Copyright (c) 2013 Leo Hsieh
 
 Hello world, I am Leo, this is the source code of my personal portfolio, feel free to browser.
