@@ -85,6 +85,6 @@ This is the most interesting function in this web app. We all know how many frie
 </figure>
 
 ### Accuracy
-Due to Facebook API did not return enough information, this ranking results are just for reference and for fun. So let's Have Fun!
+Due to Facebook API did not return enough information, this ranking results are just for reference and for fun. So check it out use demo link on the left sie and Have Fun!
 
 > `JavaScript`, `HTML`, `CSS`, `FaceBook API`, `jQuery`, `handlebars`, `Modernizr`.
