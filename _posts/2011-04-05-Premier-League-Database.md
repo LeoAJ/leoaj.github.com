@@ -5,6 +5,8 @@ category: school
 tags: [Python, HTML, CSS, Oracle database, School Project]
 image:
   feature: league-1.jpg
+  credit: Leo Hsieh
+  creditlink: http://leoj.net
 comments: false
 sourceCode: http://github.com/LeoAJ/Premier-League-Database
 ---

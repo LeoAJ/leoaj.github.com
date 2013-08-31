@@ -6,6 +6,7 @@ tags: [JavaScript, HTML, CSS, Facebook API, jQuery, handlebars, Modernizr, Perso
 image:
   feature: fb-1.png
   credit: Leo Hsieh
+  creditlink: http://leoj.net
 comments: false
 sourceCode: http://github.com/LeoAJ/TopFriendsFaceBookWebApp
 playNow: http://www.cs.usfca.edu/~lhsieh/friends/friends/Friends.html
