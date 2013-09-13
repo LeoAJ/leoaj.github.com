@@ -17,15 +17,33 @@ As you can see, all the graph you saw in this web app are created by HTML5 canva
 
 ### Game basic function
 
-### Random generate
+Once page load, use html canvas to draw `stackArea` (where user can see what is coming next), `tetrisground` (tetris background) and `tetrisbox` (tetris itself).
+
+### Random generate tetris
+
+Tetris are randomly generated, there are seven different kinds of tetris totally, each one of it are defined by 2 dimensional coordinate system.
+
+for example this is how square tetris got defined:
+
+```
+[[ 0, 0], [ 1, 0], [ 0, 1], [ 1, 1]]
+```
 
 ### Move
 
+Basic moving functions are `moveRight`, `moveLeft` and `moveDown`. Essentially it will compare current position with the max width or height or entire tetris ground, if it does not reach the maximum then plus 1.
+
 ### Rotate
+
+I got `rotateLeft` and `rotateRight` two function to take responsibility of rotating tetris. Each of it will call `setCoordinateX` and `setCoordinateY` four times to properly set the new coordinate position for the tetris based on rotate to left or right.
 
 ### Score
 
+Basic score rule is 1 point for each tetris and X numbers of line removed at one time will two squared of X points.
+
 ### Level
+
+every 50 point is a level, once level upgrade, speed will go faster.
 
 ### Let's play!
 
