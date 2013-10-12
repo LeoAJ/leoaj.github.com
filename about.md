@@ -23,7 +23,7 @@ These are the tasks that I have been working on:
 
 * Building UI component with popular open source projects such as AngularJs, Backbone, Underscore, jQuery, Grunt, i18next, express.js, dust.js and Bootstrap 3 etc. And native JavaScript, HTML5 and CSS3 (Sass/Stylus) too.
 * Building node.js module for communicating with Java server and Browser through socket.io.
-* Writing BDD Testing for all UI and node.js module
+* Writing BDD Testing for all UI and node.js modules
 
 ## Skills
 
