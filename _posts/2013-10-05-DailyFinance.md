@@ -10,7 +10,7 @@ playNow: http://54.201.105.208:1985
 
 # DailyFinance Web App (Multi-platform)
 
-DailyFinance is a useful tool for recording daily expenses, all you need is the interest access, any devices can use this tool as long as it is with browsers. User can register accounts by email, will be able to retrieve the password by email if they forget the password. User can create a new expense, update or delete current expenses and browse all expenses, they can delete all expenses and delete the entire account as well. You can use [DailyFinance-monitor]({% post_url 2013-12-05-DailyFinance-monitor %}) to view all registered users.
+DailyFinance is a useful tool for keeping daily expenses, all you need is the interest access, any devices can use this tool as long as it is with browsers. User can register accounts by email, will be able to retrieve the password by email if they forget the password. User can create a new expense, update or delete current expenses and browse all expenses, they can delete all expenses and delete the entire account as well. You can use [DailyFinance-monitor]({% post_url 2013-12-05-DailyFinance-monitor %}) to view all registered users.
 
 ### Structure
 
