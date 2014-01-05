@@ -21,9 +21,10 @@ I am in the team called CCUE (Converged Cloud User Experience), we are building 
 
 These are the tasks that I have been working on:
 
-* Building UI component with popular open source projects such as AngularJs, Backbone, Underscore, jQuery, Grunt, i18next, express.js, dust.js and Bootstrap 3 etc. And native JavaScript, HTML5 and CSS3 (Sass/Stylus) too.
-* Building node.js module for communicating with Java server and Browser through socket.io.
-* Writing BDD Testing for all UI and node.js modules
+* Building UI component with popular open source projects such as AngularJs, Backbone, Underscore, jQuery, Grunt, Express, and Bootstrap 3 etc. And native JavaScript, HTML5 and CSS3 (Sass/Stylus) too.
+* Implement RESTful APIs with node.js (Express).
+* Handling data request and response sending between client and server.
+* Writing unit testing cases for all UI and node modules (BDD).
 
 ## Skills
 
@@ -51,7 +52,6 @@ These are the tasks that I have been working on:
   * [Grunt](http://gruntjs.com){:target="_blank"}
   * [HighChart](http://www.highcharts.com){:target="_blank"}
   * [SASS](http://sass-lang.com){:target="_blank"}
-  * [LESS](http://lesscss.org){:target="_blank"}
   * [Stylus](http://learnboost.github.io/stylus){:target="_blank"}
   * [Bootstrap](http://getbootstrap.com){:target="_blank"}
   * [Foundation](http://foundation.zurb.com){:target="_blank"}
@@ -59,7 +59,7 @@ These are the tasks that I have been working on:
 ## Specialties
 
 * Front-end Engineering
-* Web application development
+* Full-stack web application development
 * Software/Platform development
 * UI implementation
 * Data analysis and visualization
