@@ -22,12 +22,12 @@ I used express to develop the node server and used mongoose to connect to mongoD
 
 Here is the main function of each js file in **server/lib** folder:
 
-* `account.js` all CRUD operation related to accountss
-* `api.js` all api entries
+* `account.js` CRUD operations related to accounts
+* `api.js` api entries
 * `authentication.js` authentication based on passportjs
-* `expense.js` all CRUD operation related to expenses
+* `expense.js` CRUD operations related to expenses
 * `index.js` main server settings
-* `password.js` all CRUD operation related to password
+* `password.js` CRUD operations related to password
 
 ### Client
 
