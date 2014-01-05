@@ -23,7 +23,7 @@ I used express to develop the node server and used mongoose to connect to mongoD
 Here is the main function of each js file in **server/lib** folder:
 
 * `account.js` CRUD operations related to accounts
-* `api.js` api entries
+* `api.js` API entries
 * `authentication.js` authentication based on passportjs
 * `expense.js` CRUD operations related to expenses
 * `index.js` main server settings
@@ -37,9 +37,22 @@ I used MVC structure by angularjs to implment the entire front-end. Besides view
 
 As you can see I used mongoDB as the main database because it is JSON-like document-oriented database which is very convenient for node js development.
 
+The database has two schema, user and expense. User saved all users' information including email, password, name and ID. Expenses saved each single expense data with name, price, data, time and ID.
+
 ### API
 
 All API built in RESTful. Main operations are CRUD which is create, read, update and delete. Use GET as read and DELETE as delete operations as usual, for create I used POST and update use PUT, which is not necessary to use POST as create, POST can be used as update as well. The main difference between them is POST is **idempotent** and PUT is not.
+
+Here is the short description of each API operation:
+
+* `GET expense list` send request to DB to require the data
+* `GET expense detail` used cached data, to improve performance, instead of sending DB request, while requesting `GET list`, cached the data for later usage.
+* `POST new expense` create new data
+* `PUT expense` update existing data
+* `DELETE expense` delete data
+* `DELETE account` delete both user and user related expense data as well
+* `DELETE all expenses` batch delete data
+* `POST retrieve password` after found the user information, send the user password via email
 
 There is few things to mention when I sent the response http code back from server. Used 201 instead of 200 when new entry got created. Used 404 if there is no data got found and 500 if there is any database error.
 
