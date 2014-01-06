@@ -21,7 +21,7 @@ I am in the team called CCUE (Converged Cloud User Experience), we are building 
 
 These are the tasks that I have been working on:
 
-* Building UI component with popular open source projects such as AngularJs, Backbone, Underscore, jQuery, Grunt, Express, and Bootstrap 3 etc. And native JavaScript, HTML5 and CSS3 (Sass/Stylus) too.
+* Building UI components with popular open source projects such as AngularJS, Backbone, Underscore, jQuery, Grunt, Express, and Bootstrap 3 etc. And native JavaScript, HTML5 and CSS3 (Sass/Stylus) too.
 * Implement RESTful APIs with node.js (Express).
 * Handling data request and response sending between client and server.
 * Writing unit testing cases for all UI and node modules (BDD).
@@ -42,7 +42,7 @@ These are the tasks that I have been working on:
 * Amazon EC2
 * Git
 * SVN
-* Js/Css frameworks
+* JS/CSS frameworks
   * [jQuery](http://jquery.com){:target="_blank"}
   * [AngularJs](http://angularjs.org){:target="_blank"}
   * [SugarJs](http://sugarjs.com){:target="_blank"}
