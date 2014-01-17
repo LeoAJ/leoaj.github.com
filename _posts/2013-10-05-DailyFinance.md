@@ -41,7 +41,7 @@ The database has two schema, user and expense. User saved all users' information
 
 ### API
 
-All API built in RESTful. Main operations are CRUD which is create, read, update and delete. Use GET as read and DELETE as delete operations as usual, for create I used POST and update use PUT, which is not necessary to use POST as create, POST can be used as update as well. The main difference between them is POST is **idempotent** and PUT is not.
+All API built in RESTful. Main operations are CRUD which is create, read, update and delete. Use GET as read and DELETE as delete operations as usual, for create I used POST and update use PUT, which is not necessary to use POST as create, POST can be used as update as well. The main difference between them is POST is not **idempotent** but PUT is.
 
 Here is the short description of each API operation:
 
