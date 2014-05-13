@@ -15,9 +15,15 @@ Hello world, I am Leo. I am a **software engineer** interested in **open source 
 
 I am also a good problem solver, capable of handling multi-tasks, self-motivated, hard working and a good team member.
 
-## Current Position: UI platform engineer at HP
+## Current Position: Software Engineer at PayPal
 
-I am in the team called CCUE (Converged Cloud User Experience), we are building enterprise cloud platform/application. CCUE is a cloud portal framework that other cloud related services can build their basis/foundation sellable client cloud portal.
+I am in the platform service team to develop and implement developer portal for PayPal.
+
+## Experience:
+
+### UI platform engineer at HP
+
+I was in the team called CCUE (Converged Cloud User Experience), we were building enterprise cloud platform/application. CCUE is a cloud portal framework that other cloud related services can build their basis/foundation sellable client cloud portal.
 
 These are the tasks that I have been working on:
 
