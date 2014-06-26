@@ -54,13 +54,13 @@ These are the tasks that I have been working on:
   * [SugarJs](http://sugarjs.com){:target="_blank"}
   * [Express](http://expressjs.com){:target="_blank"}
   * [Backbone](http://backbonejs.org){:target="_blank"}
-  * [Underscore](http://underscorejs.org){:target="_blank"}
   * [Grunt](http://gruntjs.com){:target="_blank"}
   * [HighChart](http://www.highcharts.com){:target="_blank"}
   * [SASS](http://sass-lang.com){:target="_blank"}
   * [Stylus](http://learnboost.github.io/stylus){:target="_blank"}
   * [Bootstrap](http://getbootstrap.com){:target="_blank"}
-  * [Foundation](http://foundation.zurb.com){:target="_blank"}
+  * [Dust](http://linkedin.github.io/dustjs){:target="_blank"}
+  * [Handlebars](http://handlebarsjs.com){:target="_blank"}
 
 ## Specialties
 
