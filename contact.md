@@ -10,5 +10,3 @@ image:
 ---
 
 <iframe height="497" allowTransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none"  src="http://leoj.wufoo.com/embed/z7x4m1/"><a href="http://leoj.wufoo.com/forms/z7x4m1/">Fill out my Wufoo form!</a></iframe>
-
-<!--  -->
