@@ -19,27 +19,14 @@ I am also a good problem solver, capable of handling multi-tasks, self-motivated
 
 I am in the platform service team to develop and implement developer portal for PayPal.
 
-## Experience:
-
-### UI platform engineer at HP
-
-I was in the team called CCUE (Converged Cloud User Experience), we were building enterprise cloud platform/application. CCUE is a cloud portal framework that other cloud related services can build their basis/foundation sellable client cloud portal.
-
-These are the tasks that I have been working on:
-
-* Building UI components with popular open source projects such as AngularJS, Backbone, Underscore, jQuery, Grunt, Express, and Bootstrap 3 etc. And native JavaScript, HTML5 and CSS3 (Sass/Stylus) too.
-* Implement RESTful APIs with node.js (Express).
-* Handling data request and response sending between client and server.
-* Writing unit testing cases for all UI and node modules (BDD).
-
 ## Skills
 
 * JavaScript
+* Node.js
 * HTML5
 * CSS3
-* Node.js
-* Java
 * Python
+* Java
 * C
 * SQL
 * MySQL
@@ -49,15 +36,14 @@ These are the tasks that I have been working on:
 * Git
 * SVN
 * JS/CSS frameworks
+  * [Express](http://expressjs.com){:target="_blank"}
   * [jQuery](http://jquery.com){:target="_blank"}
   * [AngularJs](http://angularjs.org){:target="_blank"}
-  * [SugarJs](http://sugarjs.com){:target="_blank"}
-  * [Express](http://expressjs.com){:target="_blank"}
   * [Backbone](http://backbonejs.org){:target="_blank"}
   * [Grunt](http://gruntjs.com){:target="_blank"}
   * [HighChart](http://www.highcharts.com){:target="_blank"}
   * [SASS](http://sass-lang.com){:target="_blank"}
-  * [Stylus](http://learnboost.github.io/stylus){:target="_blank"}
+  * [LESS](http://lesscss.org){:target="_blank"}
   * [Bootstrap](http://getbootstrap.com){:target="_blank"}
   * [Dust](http://linkedin.github.io/dustjs){:target="_blank"}
   * [Handlebars](http://handlebarsjs.com){:target="_blank"}
