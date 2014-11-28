@@ -4,7 +4,7 @@ title: "HTML5 Canvas Tetris"
 category: personal
 tags: [JavaScript, HTML, CSS, Personal Project]
 comments: false
-playNow: http://www.cs.usfca.edu/~lhsieh/Tetris/main.html
+<!-- playNow: http://www.cs.usfca.edu/~lhsieh/Tetris/main.html -->
 ---
 
 # My First Little Game
