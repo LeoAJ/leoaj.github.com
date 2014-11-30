@@ -9,7 +9,7 @@ image:
   creditlink: http://leoj.net
 comments: false
 sourceCode: http://github.com/LeoAJ/TopFriendsFaceBookWebApp
-playNow: http://www.cs.usfca.edu/~lhsieh/friends/friends/Friends.html
+<!-- playNow: http://www.cs.usfca.edu/~lhsieh/friends/friends/Friends.html -->
 ---
 
 # Go and check out who is your Top 10 closest friends on FaceBook
