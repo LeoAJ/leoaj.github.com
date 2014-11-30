@@ -9,7 +9,7 @@ image:
   creditlink: http://leoj.net
 comments: false
 sourceCode: https://github.com/LeoAJ/WebDevSimulator
-playNow: http://www.cs.usfca.edu/~lhsieh/WebDevSimulator/
+<!-- playNow: http://www.cs.usfca.edu/~lhsieh/WebDevSimulator/ -->
 ---
 
 ### Web Development Simulator
