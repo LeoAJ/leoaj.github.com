@@ -1,11 +1,11 @@
 ---
-<!-- layout: post
+layout: post
 title: "Web Component for PayPal Login Button"
 category: personal
 tags: [JavaScript, Web Component]
 comments: false
 sourceCode: https://github.com/LeoAJ/paypal-login
-playNow: http://leoj.net/paypal-login -->
+playNow: http://leoj.net/paypal-login
 ---
 
 # Web Component for PayPal Login Button
