@@ -1,16 +1,18 @@
 ---
-layout: post
+<!-- layout: post
 title: "Web Component for PayPal Login Button"
 category: personal
 tags: [JavaScript, Web Component]
 comments: false
 sourceCode: https://github.com/LeoAJ/paypal-login
-playNow: http://leoj.net/paypal-login
+playNow: http://leoj.net/paypal-login -->
 ---
 
 # Web Component for PayPal Login Button
 
-### What is web component
+Coming soon ...
+
+<!-- ### What is web component
 
 ### Why Polymer
 
@@ -22,6 +24,6 @@ PayPal provide login with PayPal to allow 3rd party application to integrate wit
 <paypal-login></paypal-login>
 ```
 
-Easy right ?
+Easy right ? -->
 
 > `JavaScript`, `Web Component`
