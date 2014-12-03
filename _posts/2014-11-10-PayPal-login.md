@@ -14,7 +14,11 @@ Coming soon ...
 
 <!-- ### What is web component
 
+Web component is the next version of HTML new feature, it is based encapsulated and interoperable custom elements that extend HTML.
+
 ### Why Polymer
+
+Polymer is a Google open source provided polyfill to implment custom elements in current version of JavaScript and HTML.
 
 ### Login With PayPal
 
