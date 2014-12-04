@@ -22,11 +22,13 @@ Polymer is a Google open source provided polyfill to implment custom elements in
 
 ### Login With PayPal
 
-PayPal provide login with PayPal to allow 3rd party application to integrate with PayPal, instead of using this [intruction](http://paypal.com) to create a Login With PayPal button, right now all you need to do is this:
+PayPal provide login with PayPal to allow 3rd party application to integrate with PayPal, instead of using this [intruction](https://developer.paypal.com/docs/integration/direct/identity/log-in-with-paypal/) to create a Login With PayPal button, right now all you need to do is this:
 
-```
+{% highlight HTML %}
+
 <paypal-login></paypal-login>
-```
+
+{% endhighlight %}
 
 Easy right ? -->
 
