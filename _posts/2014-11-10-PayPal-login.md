@@ -30,6 +30,6 @@ PayPal provide login with PayPal to allow 3rd party application to integrate wit
 
 {% endhighlight %}
 
-Easy right? This is the future of HTML, just embedded all the feature into one single HTML tag-->
+Easy right? <paypal-login> provided exactly to same function of loggin with PayPal, but just simpler and lighter for any developer, customer, merchant who wants to sign in to their web site by using PayPal login credentials quickly and securely.-->
 
 > `JavaScript`, `Web Component`
