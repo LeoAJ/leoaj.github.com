@@ -30,6 +30,6 @@ PayPal provide login with PayPal to allow 3rd party application to integrate wit
 
 {% endhighlight %}
 
-Easy right ? -->
+Easy right? This is the future of HTML, just embedded all the feature into one single HTML tag-->
 
 > `JavaScript`, `Web Component`
