@@ -18,7 +18,23 @@ Web component is the next version of HTML new feature, it is based encapsulated 
 
 ### Why Polymer
 
-Polymer is a Google open source provided polyfill to implment custom elements in current version of JavaScript and HTML.
+Polymer is a Google open source project provided polyfill to implment custom elements in current browser which lack of native support.
+
+**Install with Bower**
+
+{% highlight JavaScript %}
+
+bower install webcomponentsjs
+
+{% endhighlight %}
+
+**Install with npm**
+
+{% highlight JavaScript %}
+
+npm install webcomponentsjs
+
+{% endhighlight %}
 
 ### Login With PayPal
 
@@ -30,6 +46,12 @@ PayPal provide login with PayPal to allow 3rd party application to integrate wit
 
 {% endhighlight %}
 
-Easy right? <paypal-login> provided exactly to same function of loggin with PayPal, but just simpler and lighter for any developer, customer, merchant who wants to sign in to their web site by using PayPal login credentials quickly and securely.-->
+Easy right? <paypal-login> provided exactly to same function of loggin with PayPal, but just simpler and lighter for any developer, customer, merchant who wants to sign in to their web site by using PayPal login credentials quickly and securely.
+
+### More information to create custom element
+
+* [Polymer](https://www.polymer-project.org)
+* [webcomponents.org](http://webcomponents.org)
+* [A web components gallery](http://customelements.io) -->
 
 > `JavaScript`, `Web Component`
