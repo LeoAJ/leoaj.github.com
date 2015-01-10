@@ -10,9 +10,7 @@ playNow: http://leoj.net/paypal-login
 
 # Web Component for PayPal Login Button
 
-Coming soon ...
-
-<!-- ### What is web component
+### What is web component
 
 Web component is the next version of HTML new feature, it is based encapsulated and interoperable custom elements that extend HTML.
 
@@ -48,10 +46,20 @@ PayPal provide login with PayPal to allow 3rd party application to integrate wit
 
 Easy right? <paypal-login> provided exactly to same function of loggin with PayPal, but just simpler and lighter for any developer, customer, merchant who wants to sign in to their web site by using PayPal login credentials quickly and securely.
 
+### How to use
+
+Just do
+
+{% highlight JavaScript %}
+
+bower install paypal-login
+
+{% endhighlight %}
+
 ### More information to create custom element
 
-* [Polymer](https://www.polymer-project.org)
-* [webcomponents.org](http://webcomponents.org)
-* [A web components gallery](http://customelements.io) -->
+* [Polymer](https://www.polymer-project.org){:target="_blank"}
+* [webcomponents.org](http://webcomponents.org){:target="_blank"}
+* [A web components gallery](http://customelements.io){:target="_blank"}
 
 > `JavaScript`, `Web Component`
