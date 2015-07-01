@@ -38,13 +38,13 @@ links:
   - title: School Projects
     url: /schoolProjects
   - title: Publications
-    url: /publications    
+    url: /publications
   - title: Contact
     url: /contact
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Los_Angeles
-highlighter:    true
+highlighter:    pygments
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
