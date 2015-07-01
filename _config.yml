@@ -3,7 +3,7 @@ description:      Open source software engineer
 logo:             icon.jpg
 disqus_shortname:
 #Comment out url when working locally to resolve base urls correctly
-url:              leoj.js.org
+url:              http://leoj.js.org
 
 # Owner/author information
 owner:
