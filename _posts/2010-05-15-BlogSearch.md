@@ -6,7 +6,7 @@ tags: [Python, HTML, CSS, School Project]
 image:
   feature: blog-1.jpg
   credit: Leo Hsieh
-  creditlink: http://leoj.net
+  creditlink: http://leoj.js.org
 comments: false
 sourceCode: http://github.com/LeoAJ/Blog-Search
 ---

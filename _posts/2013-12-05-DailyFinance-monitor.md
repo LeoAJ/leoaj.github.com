@@ -6,7 +6,7 @@ tags: [JavaScript, NodeJs, AngularJs, Bootstrap]
 image:
   feature: DailyFinance-monitor-1.png
   credit: Leo Hsieh
-  creditlink: http://leoj.net
+  creditlink: http://leoj.js.org
 comments: false
 sourceCode: https://github.com/LeoAJ/DailyFinance-monitor
 playNow: http://54.201.105.208:1992

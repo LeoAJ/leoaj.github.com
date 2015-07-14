@@ -6,7 +6,7 @@ tags: [JavaScript, HTML, CSS, jQuery, Personal Project]
 image:
   feature: webDev-1.jpg
   credit: Leo Hsieh
-  creditlink: http://leoj.net
+  creditlink: http://leoj.js.org
 comments: false
 sourceCode: https://github.com/LeoAJ/WebDevSimulator
 <!-- playNow: http://www.cs.usfca.edu/~lhsieh/WebDevSimulator/ -->
