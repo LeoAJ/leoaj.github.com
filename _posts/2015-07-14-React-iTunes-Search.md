@@ -26,15 +26,15 @@ On the other hand, **Container** component is listening to the search event and 
 
 React stands for **V** in traditional MVC framework, which means there is no model and there is no controller, React can fully focus on how to emphasis and power the view rendering. In 2015, React has been the most popular UI framework so far, here are several reasons I personally like it a lot.
 
-##### 1. Virtual DOM
+#### 1. Virtual DOM
 
 Virtual DOM is the key point why React is so fast for rendering the page, as a Front end engineer, the top priority that I am concerned is the user experience. That is why I need the most fastest rendering framework to help me speed up the rendering process.
 
-##### 2. Stateless
+#### 2. Stateless
 
 I believed there are a lot people had the same experience like I had, which was how to change the UI pieces to a specific state and change it or change it back again, so on and so forth. Once the web app became bigger and bigger, your entire web app will become harder and harder to maintain and extend. However, in React, as a developer, all I need to do is the determine what state I am going to be, I just need to tell React what is the end state I would like the UI to be, React will complete the state transaction for me, save a lot of trouble for me.
 
-##### 3. Reusable Component
+#### 3. Reusable Component
 
 All React app are composed by React components, React components can represent a traditional UI components, thus, every components can be reuse in any places. I do not have to keep creating similar UI modules and maintain them again and again, all I need is one React component and it can be used everywhere.
 
