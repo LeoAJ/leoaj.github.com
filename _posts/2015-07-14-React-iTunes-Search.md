@@ -38,6 +38,10 @@ I believed there are a lot people had the same experience like I had, which was 
 
 All React app are composed by React components, React components can represent a traditional UI components, thus, every components can be reuse in any places. I do not have to keep creating similar UI modules and maintain them again and again, all I need is one React component and it can be used everywhere.
 
+### Ajax
+
+All the search request are jsonp ajax request by [**reqwest**](https://github.com/ded/reqwest), it is a light easy ajax request library provided lots of useful features. I am simply making jsonp ajax request only in this app.
+
 ### Why no Flux?
 
 Flux provided a better way of unidirectional data flow, in this app, there is only one action is going to happen which is query search, to simplify the app I decided not to use Flux, since there is only one kind of action will happen.
