@@ -32,7 +32,7 @@ Virtual DOM is the key point why React is so fast for rendering the page, as a F
 
 #### 2. Stateless
 
-I believed there are a lot people had the same experience like I had, which was how to change the UI pieces to a specific state and change it or change it back again, so on and so forth. Once the web app became bigger and bigger, your entire web app will become harder and harder to maintain and extend. However, in React, as a developer, all I need to do is the determine what state I am going to be, I just need to tell React what is the end state I would like the UI to be, React will complete the state transaction for me, save a lot of trouble for me.
+I believed there are a lot people had the same experience like I had, which was how to change the UI pieces to a specific state and change it or change it back again, so on and so forth. Once the web app became bigger and bigger, your entire web app will become harder and harder to maintain and extend. However, in React, as a developer, all I need to do is the determine what state I am going to be, I just need to tell React what is the end state I would like the UI to be, React will complete the state transaction for me, save a lot of trouble for me, it is so called **Declarative** way.
 
 #### 3. Reusable Component
 
