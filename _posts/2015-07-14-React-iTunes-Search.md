@@ -42,6 +42,14 @@ All React app are composed by React components, React components can represent a
 
 All the search request are jsonp ajax request by [**reqwest**](https://github.com/ded/reqwest), it is a light easy ajax request library provided lots of useful features. I am simply making jsonp ajax request only in this app.
 
+The request structure are based on iTunes search API, there are two query string parameter that I passed into the API, one is the media type and the other is search query. For example, the user wants to search all music from Maroon 5, the API call will look like this:
+
+{% highlight text %}
+
+https://itunes.apple.com/search?media=music&term=maroon+5'
+
+{% endhighlight %}
+
 ### Why no Flux?
 
 Flux provided a better way of unidirectional data flow, in this app, there is only one action is going to happen which is query search, to simplify the app I decided not to use Flux, since there is only one kind of action will happen.
