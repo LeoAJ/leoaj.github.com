@@ -36,6 +36,7 @@ I am in the platform service team to develop and implement developer portal for 
 * Git
 * SVN
 * JS/CSS frameworks
+  * [React](http://facebook.github.io/react){:target="_blank"}
   * [Express](http://expressjs.com){:target="_blank"}
   * [jQuery](http://jquery.com){:target="_blank"}
   * [AngularJs](http://angularjs.org){:target="_blank"}
