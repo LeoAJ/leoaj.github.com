@@ -41,6 +41,7 @@ I am in the platform service team to develop and implement developer portal for 
   * [jQuery](http://jquery.com){:target="_blank"}
   * [AngularJs](http://angularjs.org){:target="_blank"}
   * [Backbone](http://backbonejs.org){:target="_blank"}
+  * [Webpack](http://webpack.github.io){:target="_blank"}
   * [Glup](http://gulpjs.com){:target="_blank"}
   * [Grunt](http://gruntjs.com){:target="_blank"}
   * [SASS](http://sass-lang.com){:target="_blank"}
