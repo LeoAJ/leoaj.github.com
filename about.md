@@ -11,7 +11,9 @@ image:
 
 ## About Me
 
-Hello world, I am Leo. I am a **software engineer** interested in **open source project** development. I am also a **JavaScript** developer interesting in front-end development as well as **Nodejs** development. I am more focus on front-end development, but I am able to do the back-end development with **Java** and **Python** as well.
+I am a front end engineer with 4+ years experience in front end development. I dedicated myself to build the awesome UI to the end users, the top priority of my work is performance and efficiency, how to provide the best user experience to the end user, how to design and prototyping reusable UI components. Those are my tough challenges and I am also love doing it.
+
+My experience also cover server side work, developing client to server, server to client infrastructure, building isomorphic JavaScript applications on top of Node.js platform. Moving myself to be a full stack engineer.
 
 I am also a good problem solver, capable of handling multi-tasks, self-motivated, hard working and a good team member.
 
