@@ -11,15 +11,15 @@ image:
 
 ## About Me
 
-I am a front end engineer with 4+ years experience in front end development. I dedicated myself to build the awesome UI to the end users, the top priority of my work is performance and efficiency, how to provide the best user experience to the end user, how to design and prototyping reusable UI components. Those are my tough challenges and I am also love doing it.
+I am a front end engineer with 4+ years experience in front end development. I dedicated myself to build the awesome UI to the end users, the top priority of my work is performance and efficiency, how to provide the best user experience to the end user, how to design and prototyping reusable UI components. Those are my tough challenges and I am love doing it.
 
-My experience also cover server side work, developing client to server, server to client infrastructure, building isomorphic JavaScript applications on top of Node.js platform. Moving myself to be a full stack engineer.
+My experience also cover server side work, developing client to server, server to client infrastructure and building isomorphic JavaScript applications on top of Node.js platform are my interests. Moving forward to be a full stack engineer is the on going future goal.
 
 I am also a good problem solver, capable of handling multi-tasks, self-motivated, hard working and a good team member.
 
 ## Current Position: Software Engineer at PayPal
 
-I am in the platform service team to develop and implement developer portal for PayPal.
+I am lead front end engineer in the platform service team to develop and implement developer portal(developer.paypal.com) for PayPal.
 
 ## Skills
 
