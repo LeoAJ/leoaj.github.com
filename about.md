@@ -17,9 +17,9 @@ My experience also cover server side work, developing client to server, server t
 
 I am also a good problem solver, capable of handling multi-tasks, self-motivated, hard working and a good team member.
 
-## Current Position: Software Engineer at PayPal
+## Current Position
 
-I am lead front end engineer in the platform service team to develop and implement developer portal(developer.paypal.com) for PayPal.
+Senior Software Engineer at Walmart Labs
 
 ## Skills
 
