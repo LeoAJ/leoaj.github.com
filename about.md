@@ -20,7 +20,6 @@ I am also a good problem solver, capable of handling multi-tasks, self-motivated
 ## Current Position
 
 Senior Software Engineer at Walmart Labs
-X
 
 ## Skills
 
