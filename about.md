@@ -11,7 +11,7 @@ image:
 
 ## About Me
 
-I am a front end engineer with 5.5 years experience in front end development. I dedicated myself to build the awesome UI to the end users, the top priority of my work is performance and efficiency, how to provide the best user experience to the end user, how to design and prototyping reusable UI components. Those are my tough challenges and I love doing it.
+I am a front end engineer with 5 years experience in front end development. I dedicated myself to build the awesome UI to the end users, the top priority of my work is performance and efficiency, how to provide the best user experience to the end user, how to design and prototyping reusable UI components. Those are my tough challenges and I love doing it.
 
 My experience also cover server side work, developing client to server, server to client infrastructure and building isomorphic JavaScript applications on top of Node.js platform are my interests. Moving forward to be a full stack engineer is the on going future goal.
 
