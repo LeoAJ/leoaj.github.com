@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /certification/index.html
+title: Certification
 tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
 image:
   <!-- feature: about.jpg -->

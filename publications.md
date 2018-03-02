@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /publications/index.html
+title: Publication
 tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
 image:
   <!-- feature: about.jpg -->
